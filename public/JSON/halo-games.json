@@ -1,0 +1,131 @@
+[
+    {
+        "name": "Halo: Combat Evolved",
+        "released": 2001,
+        "genre": "Shooter",
+        "rating": "9.7/10 -IGN.com, 97% - Metacritic",
+        "description": "Halo: CE is the first ever game of the Halo franchise. it Quickly became on on the most successful games of all time",
+        "tab_image": "../img/game_images/Halo_Combat_Evolved.png",
+        "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus lacus quis dignissim porta. Nulla iaculis eros in mauris placerat, vitae accumsan nibh porta. Cras ut orci varius, condimentum ipsum sed, commodo magna. Sed feugiat metus erat, nec tincidunt elit porttitor eget. Pellentesque non auctor felis, at convallis erat. Vestibulum eget risus nec diam congue tincidunt. Proin mollis viverra lorem. Ut et nibh ultricies, semper lectus vitae, auctor orci. Fusce consequat tortor eget ipsum euismod, sed varius sem ultrices. Aliquam a semper metus. Praesent semper leo turpis, sed tincidunt tellus pharetra eu. Etiam ultricies justo lorem, eget pretium arcu ultricies sit amet.",
+        "type": "game"
+    },
+    {
+        "name": "Halo 2",
+        "released": 2004,
+        "genre": "Shooter",
+        "rating": "7.5/10 - IGN.com, 95% - Metacritic",
+        "description": "Halo 2 is the second Halo Game in the series. The story of Halo continues from where Halo: CE left off",
+        "tab_image": "../img/game_images/Halo_2.jpg",
+        "paragraph_1":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus lacus quis dignissim porta. Nulla iaculis eros in mauris placerat, vitae accumsan nibh porta. Cras ut orci varius, condimentum ipsum sed, commodo magna. Sed feugiat metus erat, nec tincidunt elit porttitor eget. Pellentesque non auctor felis, at convallis erat. Vestibulum eget risus nec diam congue tincidunt. Proin mollis viverra lorem. Ut et nibh ultricies, semper lectus vitae, auctor orci. Fusce consequat tortor eget ipsum euismod, sed varius sem ultrices. Aliquam a semper metus. Praesent semper leo turpis, sed tincidunt tellus pharetra eu. Etiam ultricies justo lorem, eget pretium arcu ultricies sit amet.",        "type": "game"
+        },
+    {
+        "name": "Halo 3",
+        "released": 2007,
+        "genre": "Shooter",
+        "rating": "9.5/10 -IGN.com, 94% - Metacritic",
+        "description": "Halo 3 is the third installation of the Halo series, Halo 3 sees The Master Chief successfully destroying all the Halo rings.",
+        "tab_image": "../img/game_images/Halo_3.jpg",
+        "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus lacus quis dignissim porta. Nulla iaculis eros in mauris placerat, vitae accumsan nibh porta. Cras ut orci varius, condimentum ipsum sed, commodo magna. Sed feugiat metus erat, nec tincidunt elit porttitor eget. Pellentesque non auctor felis, at convallis erat. Vestibulum eget risus nec diam congue tincidunt. Proin mollis viverra lorem. Ut et nibh ultricies, semper lectus vitae, auctor orci. Fusce consequat tortor eget ipsum euismod, sed varius sem ultrices. Aliquam a semper metus. Praesent semper leo turpis, sed tincidunt tellus pharetra eu. Etiam ultricies justo lorem, eget pretium arcu ultricies sit amet.",
+        "type": "game"
+    },
+    {
+        "name": "Halo Wars",
+        "released": 2009,
+        "genre": "Real Time Strategy",
+        "rating": "8.4/10 - IGN.com, 81% - Metacritic",
+        "description": "Halo Wars is a...",
+        "tab_image": "../img/game_images/Halo_Wars.jpg",
+        "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus lacus quis dignissim porta. Nulla iaculis eros in mauris placerat, vitae accumsan nibh porta. Cras ut orci varius, condimentum ipsum sed, commodo magna. Sed feugiat metus erat, nec tincidunt elit porttitor eget. Pellentesque non auctor felis, at convallis erat. Vestibulum eget risus nec diam congue tincidunt. Proin mollis viverra lorem. Ut et nibh ultricies, semper lectus vitae, auctor orci. Fusce consequat tortor eget ipsum euismod, sed varius sem ultrices. Aliquam a semper metus. Praesent semper leo turpis, sed tincidunt tellus pharetra eu. Etiam ultricies justo lorem, eget pretium arcu ultricies sit amet.",
+        "type": "game"
+    },
+    {
+        "name": "Halo 3: ODST",
+        "released": 2009,
+        "genre": "Shooter",
+        "rating": "9/10 -IGN.com, 83% - Metacritic",
+        "description": "Halo: ODST is...",
+        "tab_image": "../img/game_images/Halo_ODST.jpg",
+        "paragraph_1": "test",
+        "type": "game"
+    },
+    {
+        "name": "Halo: Reach",
+        "released": 2010,
+        "genre": "Shooter",
+        "rating": "9.5/10 -IGN.com, 91% - Metacritic",
+        "description": "Halo: Reach is...",
+        "tab_image": "../img/game_images/Halo_Reach.jpg",
+        "paragraph_1": "Test",
+        "type": "game"
+    },
+    {
+        "name": "Halo: CE Anniversary",
+        "released": 2011,
+        "genre": "Shooter",
+        "rating": "8/10 - IGN.com, 82% - Metacritic",
+        "description": "Halo: Combat Anniversary edition is the 10 year anniversary remaster of the original Halo: CE",
+        "tab_image": "../img/game_images/Halo_Anniversary.jpg",
+        "paragraph_1": "Test",
+        "type": "game"
+    },
+    {
+        "name": "Halo 4",
+        "released": 2012,
+        "genre": "Shooter",
+        "rating": "9.8/10 - IGN.com, 87% - Metacritic",
+        "description": "Halo 4 is the 4th installation of the Halo series that follows the adventures of the Master Chief",
+        "tab_image": "../img/game_images/Halo_4.jpg",
+        "paragraph_1": "Test",
+        "type": "game"
+	},
+    {
+        "name": "Halo: Spartan Assault",
+        "released": 2013,
+        "genre": "Two Stick Shooter",
+        "rating": "6.7/10 - IGN.com, 51% - Metacritic",
+        "description": "Halo: Spartan Assault is a Top down, two stick shooter...",
+        "tab_image": "../img/game_images/Halo_Spartan_Assault.jpg",
+        "paragraph_1": "Test",
+        "type": "game"
+	},
+    {
+        "name": "Halo: Master Chief Collection",
+        "released": "2014",
+        "genre": "Shooter",
+        "rating": "9/10 - Trusted Reviews, 85% - Metacritic",
+        "description": "Halo: Master Chief Collection is a re-release of Halo: CE, Halo 2, Halo 3 and Halo 4 for Xbox One and Xbox 360",
+        "tab_image": "../img/game_images/Halo_Master_Chief_Collection.jpg",
+        "paragraph_1": "Test",
+        "type": "game"
+	},
+    {
+        "name": "Halo: Spartan Strike",
+        "released": "2015",
+        "genre": "Two Stick Shooter",
+        "rating": "7.2/10 - IGN.com, 66% - Metacritic",
+        "description": "Halo: Spartan Strike is a Two-Stick Shooter that was released on Windows Phone, Microsoft Windows and iOS",
+        "tab_image": "../img/game_images/Halo_Spartan_Strike.jpg",
+        "paragraph_1": "Test",
+        "type": "game"
+	},
+    {
+        "name": "Halo 5: Guardians",
+        "released": "2015",
+        "genre": "Shooter",
+        "rating": "9/10 - IGN.com, 84% - Metacritic",
+        "description": "Halo 5: Guardians, is the latest game of the Halo series that sticks with the journey of The Master Chief",
+        "tab_image": "../img/game_images/Halo_5.png",
+        "paragraph_1": "Test",
+        "type": "game"
+	},
+    {
+        "name": "Halo Wars 2",
+        "released": "2017",
+        "genre": "Real Time Strategy",
+        "rating": "7/10 - IGN, 79% - Metacritic",
+        "description": "Halo Wars 2 is the sequel to the successful real time strategy game Halo Wars",
+        "tab_image": "../img/game_images/Halo_Wars_2.png",
+        "paragraph_1": "Test",
+        "type": "game"
+	}
+]

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Halo</title>
+
+
+    <link rel="stylesheet" href="../../node_modules/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="characters.css">
+    <link rel="stylesheet" href="../navbar.css">
+
+    <script src="../javascript/get_url.js"></script>
+
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!--<script src="../node_modules/jquery/dist/jquery.min.js"></script>-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!--<script src="../node_modules/bootstrap/dist/js/bootstrap.js"></script>-->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <header roll="banner" class="navbar navbar-fixed-top navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <button data-toggle="collapse-side" data-target=".side-collapse" data-target-2=".side-collapse-container" type"button"
+                class="navbar-toggle pull-left">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="../index.html">Halo Archive</a>
+            </div> <!-- navbar -->
+            <div class="navbar-inverse side-collapse in">
+                <nav role="navigation" class="navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="../halo_characters/halo_characters.html">characters</a></li>
+                        <li><a href="../games/games.html">Games</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div> <!-- container -->
+    </header>
+    <img id="intro_image" src="../img/halo_4_master_chief.jpg">
+
+    <div class="jumbotron" id="intro">
+        <h1>Halo Characters:</h1> </br>
+        <h2>
+            <small>All characters are arranged into these accordions
+                according to their faction/alignment <br>
+                For now the characters shown will be from the games only.
+            </small>
+        </h2>
+    </div>
+
+    <div class="container">
+        <div id="all_halo_characters">
+            <div id="all_unsc">
+                <div>
+                    <h1 id="unsc_intro">The UNSC</h1>
+                        <p>
+                            The UNSC was commissioned in 2163 as a military force primarily composed of Naval and Marine forces.
+                            In July 2164, the UNSC partook in its first battle. From this point, the UNSC was used by the UN in conflicts,
+                            including the Interplanetary War."
+                        </p>
+                    <div id="unsc_characters" class="col-sm-12 col-md-12 col-lg-12"></div>
+                </div>
+            </div>
+
+            <div id="all_covenant">
+                <div>
+                    <h1 id="covenant_intro">The Covenant</h1>
+                    <p>
+                        The Covenant Empire, also referred to as The Covenant, was a theocratic hegemony made up of multiple
+                        alien species that maintained control over a large portion of the Orion Arm in the Milky Way galaxy.
+                        The Covenant was a political, military, and religious affiliation, originally a mutual alliance
+                        between the San'Shyuum and Sangheili following a brutal conflict between the two warring races. Its expansion to include
+                        at least six other races united in the worship of the Forerunners and the Halo Array soon began after the original formation.
+                    </p>
+                </div>
+                <div id="covenant_characters" class="col-sm-12 col-md-12 col-lg-12"></div>
+            </div>
+
+
+
+    
+            <div id="all_forerunners">
+                <div>
+                    <h1 id="forerunners_intro">The Forerunners</h1>
+                    <p>
+                        The Forerunner (Latin Primoris Prognatus meaning "first born") race were a highly advanced and
+                        ancient Tier 1 species whose empire, the Ecumene, was spread across three million
+                        fertile worlds in the Milky Way galaxy approximately 100,000 years ago. The Forerunners
+                        were the creators and builders of many significant installations, including the Halo Array,
+                        the Ark, and the Shield Worlds, as well as numerous lesser artifacts later found on many worlds.
+                    </p>
+                    </div>
+                <div id="forerunner_characters" class="col-sm-12 col-md-12 col-lg-12"></div>
+            </div>
+
+            <div id="all_other_characters">
+                <div>
+                    <h1 id="others_intro">Other Characters</h1>
+                </div>
+                <div id="other_characters" class="col-sm-12 col-md-12 col-lg-12"></div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p class="text-muted">Place sticky footer content here.</p>
+        </div>
+    </footer>
+<script src="../javascript/ajax-service.js"></script>
+<script src="../javascript/data-service.js"></script>
+<script src="../../node_modules/jquery/dist/jquery.js"></script>
+<script src="../../node_modules/bootstrap/dist/js/bootstrap.js"></script>
+<script src="../javascript/html_builder.js"></script>
+<script src="characters.js"></script>
+<script src="../javascript/navbar.js"></script>
+</body>
+</html>

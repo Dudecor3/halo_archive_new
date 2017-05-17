@@ -1,0 +1,35 @@
+body h1 {
+    text-align: center;
+    padding: 20px;
+    margin: 25px;
+}
+
+body p {
+    padding: 10px;
+    margin: 15px;
+    text-align: match-parent;
+}
+
+.image1 {
+    position: relative;
+    width: 100%;
+    height: 500px;
+}
+
+.image2 {
+    width: auto;
+    height: 200px;
+    position: relative;
+    margin: 10px;
+}
+
+.col-sm-10 .paragraph-2 {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+img {
+    width: 100%
+    height: auto;
+}

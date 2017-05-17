@@ -1,0 +1,42 @@
+@-ms-viewport       { width: device-width; }
+@-o-viewport        { width: device-width; }
+@viewport           { width: device-width; }
+
+body {
+    text-align: center;
+    margin-top: 50px;
+}
+
+body h1 {
+    font-size: 20px;
+}
+
+body #intro {
+    position: relative;
+    top: -25px;
+    background-color: #eceeee;
+    padding: 25px
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+#intro_image {
+    height: 400px;
+    width: 100%;
+}
+
+.character_image {
+    width: 200px;
+    height: 100px;
+}
+
+#character {
+    padding: 15px;
+}
+
+div:nth-child(n2) {
+    background-color: black;
+}
