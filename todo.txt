@@ -1,0 +1,5 @@
+things to do on website:
+  
+  1. Add carousels/image sliders to index page, these will be set randomly each day. 
+  2. Start hunting images for weaponary. 
+  3. Start gathering data for weaponary and create a dynamic template for each weapon. 

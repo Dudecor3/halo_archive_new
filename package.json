@@ -1,0 +1,31 @@
+{
+  "name": "halo_archive",
+  "version": "1.0.0",
+  "description": "A website that gives detailed information on all things Halo",
+  "main": "index.html",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1",
+    "jquery": "3.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dudecor3/Halo_Archive.git"
+  },
+  "keywords": [
+    "Halo"
+  ],
+  "author": "Marc Freeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dudecor3/Halo_Archive/issues"
+  },
+  "homepage": "https://github.com/Dudecor3/Halo_Archive#readme",
+  "dependencies": {
+    "axios": "^0.16.1"
+  }
+}

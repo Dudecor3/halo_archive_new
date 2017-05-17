@@ -1,0 +1,32 @@
+{
+    "extends": [
+        "eslint:recommended"
+    ],
+    "env": {
+        "browser": true,
+        "es6": true,
+        "mocha": true,
+        "jquery": true
+    },
+    "rules": {
+        "indent": ["error", 4, {"SwitchCase": 1}],
+        "linebreak-style": "off",
+        "semi": ["error", "always"],
+        "no-console": "off",
+        "no-debugger": "off",
+        "block-scoped-var": "error",
+        "no-extra-boolean-cast": "off",
+        "consistent-return": "error",
+        "curly": "error",
+        "default-case": "error",
+        "eqeqeq": "error",
+        "guard-for-in": "error",
+        "no-alert": "error",
+        "no-caller": "error",
+        "no-div-regex": "error"
+    }
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> 4c15f5b36a504875dfdd3cd754642c3d2c0cffef
