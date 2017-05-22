@@ -47,10 +47,19 @@
                         <li><a href="halo_characters/halo_characters.html">characters</a></li>
                         <li><a href="games/games.html">Games</a></li>
                     </ul>
+                    <ul class="nav navbar-right" class="navbar-collapse">
+                        <button class="btn btn-default" id="sign-in-button">Sign in!</button>
+                    </ul>
                 </nav>
             </div>
         </div> <!-- container -->
     </header>
+
+    <script>
+        document.getElementById('sign-in-button').addEventListener('click', function () {
+            alert('Hello');
+        })
+    </script>
 
     <div class="image">
         <img id="intro_image" src="img/character_images/UNSC/Master_Chief/master_chief_header.jpg">

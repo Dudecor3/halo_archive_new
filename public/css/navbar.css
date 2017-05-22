@@ -21,4 +21,8 @@
     .side-collapse.in {
         width:0;
     }
+
+ button .btn-default {
+        color: grey;
+    }
 }
