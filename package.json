@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/Dudecor3/Halo_Archive#readme",
   "dependencies": {
+    "angularjs": "^0.0.1",
     "axios": "^0.16.1"
   }
 }
